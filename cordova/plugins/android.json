@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "io.cordova.angulardart"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.angulardart"
+    }
+  },
+  "dependent_plugins": {}
+}
